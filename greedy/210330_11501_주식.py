@@ -1,4 +1,4 @@
-#baekjoon, 11501, 주식
+#baekjoon, 11501, 주식 
 
 n = int(input())
 values_list = []

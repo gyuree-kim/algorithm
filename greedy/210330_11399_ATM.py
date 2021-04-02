@@ -1,4 +1,4 @@
-#baekjoon, 11399, ATM
+#baekjoon, 11399, ATM 
 
 n = int(input())
 P = list(map(int, input().split()))

@@ -1,5 +1,5 @@
 #https://www.acmicpc.net/problem/4796
-
+ 
 arr = []
 
 while True:
