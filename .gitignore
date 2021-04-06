@@ -1,5 +1,6 @@
-# Certain files
+# Custom
 test.py
+draft/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
