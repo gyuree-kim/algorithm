@@ -1,0 +1,7 @@
+-- https://programmers.co.kr/learn/courses/30/lessons/62284
+
+SELECT A.CART_ID
+FROM 
+    (SELECT CART_ID FROM CART_PRODUCTS WHERE NAME="Yogurt") AS A,
+    (SELECT CART_ID FROM CART_PRODUCTS WHERE NAME="Milk") AS B
+WHERE A.CART_ID = B.CART_ID
